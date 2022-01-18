@@ -1,0 +1,16 @@
+div  {
+    background-color: purple;
+    padding: 20px;
+  }
+  
+  .box1{
+    opacity: 0.1; 
+  }
+  
+  .box2{
+    opacity: 0.3;
+  }
+  
+  .box3{
+    opacity: 0.6;
+  }
